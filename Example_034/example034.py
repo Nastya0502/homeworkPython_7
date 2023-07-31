@@ -13,5 +13,3 @@ def rhyme(words):
         print('Парам пам-пам')
     else:
         print('Пам парам')
-
-
